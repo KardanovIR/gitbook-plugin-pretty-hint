@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-pretty-hint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "gitbook": ">2.5.x"
+  },
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
