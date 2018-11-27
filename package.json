@@ -10,8 +10,5 @@
   "license": "ISC",
   "engines": {
     "gitbook": ">2.5.x"
-  },
-  "dependencies": {
-    "md5": "^2.2.1"
   }
 }

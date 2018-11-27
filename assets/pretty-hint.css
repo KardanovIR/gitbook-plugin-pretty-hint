@@ -9,16 +9,19 @@
 
 .wd-pretty-hint
 {
-    line-height: 26px;
-
     flex-direction: row;
     justify-content: flex-start;
-    align-items: center;
+    align-items: flex-start;
 
-    transition: border 200ms ease 0s;
+    margin: 0 0 0.85em 0;
 
-    border: rgb(230, 236, 241) 1px solid;
+    background: rgb(245, 247, 249);
+    border-left: solid 3px;
     border-radius: 3px;
-    box-shadow: rgba(116, 129, 141, 0.1) 0px 3px 8px 0px;
-    outline: none;
+}
+
+.wd-pretty-hint .wd-ico
+{
+    width: 24px;
+    height: 24px;
 }
